@@ -1,0 +1,7 @@
+D:\Download\SWE40006\StudyPlanner\bin\Publish\StudyPlanner.exe
+D:\Download\SWE40006\StudyPlanner\bin\Publish\appsettings.Development.json
+D:\Download\SWE40006\StudyPlanner\bin\Publish\appsettings.json
+D:\Download\SWE40006\StudyPlanner\bin\Publish\StudyPlanner.dll
+D:\Download\SWE40006\StudyPlanner\bin\Publish\StudyPlanner.deps.json
+D:\Download\SWE40006\StudyPlanner\bin\Publish\StudyPlanner.runtimeconfig.json
+D:\Download\SWE40006\StudyPlanner\bin\Publish\StudyPlanner.pdb
